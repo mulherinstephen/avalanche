@@ -17,7 +17,7 @@ avalanche.ipynb:
   
     Random Forest
   
-deep_learning_avalanche.ipynb:
+deep_learning_avalanche.ipynb: Not Completed
 
     LSTM in Keras
   
